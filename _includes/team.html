@@ -1,0 +1,79 @@
+<!-- Team Section -->
+    <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Team</h2>
+                    <p class="small text-muted"> </p>
+            </div>
+                    <div class="team-member">
+                        <a href="https://person.zju.edu.cn/en/huajun">
+                        <img src="img/team/huajun.jpg" class="img-responsive img-circle" alt="" width='200' height='200'>
+                            <h4 class="col-lg-12">Prof. Huajun Chen</h4>
+                        </a>
+                        <p class="small"> Full Professor, College of Computer Science and Technology, Zhejiang University <br>
+                            Director, ZJU-Alibaba Joint Lab for Knowledge Engine <br>
+                            Leading Founder, OpenKG Initiative<br>
+                        </p>
+                    </div>
+                   <!-- <h3 class="section-subheading text-muted">.</h3>-->
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.people-pi %}
+                <div class="col-sm-4-p">
+                    <div class="team-member">
+                        <a href="{{ member.url }}">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="" width='180' height='180'>
+                        <h5>{{ member.name }}</h5>
+                        </a>
+                        <p class="small">{{ member.position }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h4>Students</h4>
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.people-student%}
+                <div class="col-sm-4-s">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="" width='160' height='160'>
+                        <h5>{{ member.name }}</h5>
+                        </a>
+                        <p class="small">{{ member.position }}</p>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <h4>Research Assistants</h4>
+                </div>
+            </div>
+            <div class="row">
+                {% for member in site.people-ra %}
+                <div class="col-sm-4-s">
+                    <div class="team-member">
+                        <img src="img/team/{{ member.pic }}.jpg" class="img-responsive img-circle" alt="" width='160' height='160'>
+                        <h5>{{ member.name }}</h5>
+                        <p class="small">{{ member.position }}</p>
+                       <!-- <ul class="list-inline social-buttons">
+                            {% for network in member.social %}
+                            <li>
+                                <a href="{{ network.url }}">
+                                    <i class="fa fa-{{ network.title }}"></i>
+                                </a>
+                            </li>
+                            {% endfor %}
+                        -->
+                        </ul>
+                    </div>
+                </div>
+                {% endfor %}
+            </div>
+        </div>
+    </section>

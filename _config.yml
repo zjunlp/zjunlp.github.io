@@ -1,0 +1,342 @@
+url: https://zjukg.github.io
+baseurl: 
+
+# Site settings
+title:
+email: huajunsir@zju.edu.cn
+description: "A KG and NLP research group from Zhejiang University"
+
+
+# Team names, titles and social links
+people-pi:
+- name: Dr. Ningyu Zhang
+  pic: PI/1
+  position: Associate Professor <br> College of Software, Zhejiang University
+  url: https://person.zju.edu.cn/en/ningyu
+
+- name: Dr. Wen Zhang
+  pic: PI/2
+  position: Assistant Professor <br> College of Software, Zhejiang University
+  url: https://person.zju.edu.cn/en/wenzhang
+
+- name: Dr. Guozhou Zheng
+  pic: PI/3
+  position: Associate Professor <br> College of Computer Science, Zhejiang University
+  url: #
+
+people-student:
+- name: Yuxia Geng
+  pic: student/1
+  position: PhD Student
+  url: #
+
+- name: Mingyang Chen
+  pic: student/2
+  position: PhD Student
+  url: #
+
+- name: Yushan Zhu
+  pic: student/3
+  position: PhD Student
+  url: #
+
+- name: Zhuo Chen
+  pic: student/4
+  position: PhD Student
+  url: #
+
+- name: Juan Li
+  pic: student/5
+  position: PhD Student
+  url: #
+
+- name: Yunzhi Yao
+  pic: student/6
+  position: PhD Student
+  url: #
+
+- name: Tong Xu
+  pic: student/7
+  position: PhD Student
+  url: #
+
+- name: Yuqi Zhu
+  pic: student/8
+  position: PhD Student
+  url: #
+
+- name: Haihong Yang
+  pic: student/9
+  position: PhD Student
+  url: #
+
+- name: Hongbin Ye
+  pic: student/10
+  position: PhD Student
+  url: #
+
+- name: Zezhong Xu
+  pic: student/11
+  position: PhD Student
+  url: #
+
+- name: Ming Qin
+  pic: student/12
+  position: PhD Student
+  url: #
+
+- name: Zhen Bi
+  pic: student/13
+  position: PhD Student
+  url: #
+
+- name: Zeyuan Wang
+  pic: student/14
+  position: PhD Student
+  url: #
+
+- name: Xiang Zhuang
+  pic: student/15
+  position: PhD Student
+  url: #
+
+- name: Yajing Xu
+  pic: student/16
+  position: PhD Student
+  url: #
+
+- name: Yin Fang
+  pic: student/17
+  position: PhD Student
+  url: #
+
+- name: Xiang Chen
+  pic: student/18
+  position: PhD Student
+  url: #
+
+- name: Lingbing Guo
+  pic: student/19
+  position: PhD Student
+  url: #
+
+- name: Xin Xu
+  pic: student/24
+  position: MSc Student
+  url: #
+
+- name: Hongtao Yu
+  pic: student/25
+  position: MSc Student
+  url: #
+
+- name: Xi Tian
+  pic: student/26
+  position: MSc Student
+  url: #
+
+- name: Zhoubo Li
+  pic: student/27
+  position: MSc Student
+  url: #
+
+- name: Mengyao Zhang
+  pic: student/28
+  position: MSc Student
+  url: #
+
+- name: Zhen Yao
+  pic: student/29
+  position: MSc Student
+  url: #
+
+- name: Yufeng Huang
+  pic: student/30
+  position: MSc Student
+  url: #
+
+- name: Lei Li
+  pic: student/31
+  position: MSc Student
+  url: #
+
+- name: Siyuan Cheng
+  pic: student/32
+  position: MSc Student
+  url: #
+
+- name: Xiaozhuan Liang
+  pic: student/33
+  position: MSc Student
+  url: #
+
+- name: Honghao Gui
+  pic: student/34
+  position: MSc Student
+  url: #
+
+- name: Shuofei Qiao
+  pic: student/35
+  position: MSc Student
+  url: #
+
+- name: Yichi Zhang
+  pic: student/36
+  position: MSc Student
+  url: #
+
+- name: Peng Wang
+  pic: student/37
+  position: MSc Student
+  url: #
+
+- name: Jing Chen
+  pic: student/38
+  position: MSc Student
+  url: #
+
+- name: Shengyu Mao
+  pic: student/39
+  position: MSc Student
+  url: #
+
+- name: Xiaohan Wang
+  pic: student/40
+  position: MSc Student
+  url: #
+
+- name: Bozhong Tian
+  pic: student/41
+  position: MSc Student
+  url: #
+
+- name: Long Jin
+  pic: student/42
+  position: MSc Student
+  url: #
+
+- name: Zhiwei Huang
+  pic: student/43
+  position: MSc Student
+  url: #
+
+- name: Junjie Wang
+  pic: student/44
+  position: MSc Student
+  url: #
+
+- name: Zhuoyi Xiang
+  pic: student/45
+  position: MSc Student
+  url: #
+
+- name: Yixin Ou
+  pic: student/46
+  position: MSc Student
+  url: #
+
+- name: Jiawei Meng
+  pic: student/47
+  position: MSc Student
+  url: #
+
+- name: Xiaotong Li
+  pic: student/48
+  position: MSc Student
+  url: #
+
+- name: Shaokai Chen
+  pic: student/49
+  position: MSc Student
+  url: #
+
+- name: Yuhao Wang
+  pic: student/50
+  position: MSc Student
+  url: #
+
+
+- name: Jing Yu
+  pic: student/51
+  position: MSc Student
+  url: #
+
+- name: Zhiqiang Liu
+  pic: student/52
+  position: MSc Student
+  url: #
+
+- name: Mingchen Tu
+  pic: student/53
+  position: MSc Student
+  url: #
+
+- name: Yin Hua
+  pic: student/54
+  position: MSc Student
+  url: #
+
+- name: Kangwei Liu
+  pic: student/55
+  position: MSc Student
+  url: #
+
+- name: Jintian Zhang
+  pic: student/56
+  position: MSc Student
+  url: #
+
+- name: Runnan Fang
+  pic: student/57
+  position: MSc Student
+  url: #
+
+
+people-ra:
+    - name: Hongjie Deng
+      pic: RA/1
+      position: Software Engineer
+      url: #
+
+    - name: Xinrong Li
+      pic: RA/2
+      position: Software Engineer
+      url: #
+
+    - name: Zhenghao Zhu
+      pic: RA/3
+      position: Software Engineer
+      url: #
+
+    - name: Kun Gan
+      pic: RA/4
+      position: Software Engineer
+      url: #
+
+    - name: Zhicheng Gong
+      pic: RA/5
+      position: Software Engineer
+      url: #
+
+    - name: Jian Zhang
+      pic: RA/6
+      position: Software Engineer
+      url: #
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: Homepage
+    url: http://hicai.zjunlp.org
+  - title: twitter
+    url:
+  - title: github
+    url: http://github.com/hicai-zju
+
+# Postal address (add as many lines as necessary)
+#address:
+ # - line: 3481 Melrose Place
+  #- line: Beverly Hills, CA 90210
+
+# Build settings
+markdown: kramdown
+permalink: pretty

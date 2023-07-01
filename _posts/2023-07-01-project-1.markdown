@@ -1,0 +1,15 @@
+---
+title: <a href="https://Openkg.cn" target="_blank">OpenKG Initiative </a>
+subtitle: Open Community for Chinese KGs 
+layout: default
+modal-id: 1
+date: 2014-07-06
+img: openkg.jpg
+thumbnail: openkg-thumbnail.jpg
+alt: image-alt
+project-date: June 2016
+members: Prof. Huajun Chen, Dr. Haofen Wang, Prof. Guilin Qi
+tags: General
+description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+
+---

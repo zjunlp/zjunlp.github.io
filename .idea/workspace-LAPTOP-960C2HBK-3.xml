@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2041cf3a-7148-4c9e-b87b-3c66a728af50" name="Changes" comment="update config">
+      <change beforePath="$PROJECT_DIR$/_config.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_config.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/template.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/template.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/clients.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/clients.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/header.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/header.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/research.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/research.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_includes/team.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/team.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/2014/07/18/project-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/2014/07/18/project-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/404.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/404.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/CHANGELOG/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/CHANGELOG/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/MIGRATION/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/MIGRATION/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/configuration/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/configuration/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/customization/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/customization/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/index-test/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/index-test/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/layout/layout/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/layout/layout/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/layout/minimal/default-child/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/layout/minimal/default-child/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/navigation-structure/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/navigation-structure/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/search/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/search/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/ui-components.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/ui-components.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/ui-components/buttons/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/ui-components/buttons/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/ui-components/callouts/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/ui-components/callouts/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/ui-components/code/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/ui-components/code/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/ui-components/code/line-numbers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/ui-components/code/line-numbers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/ui-components/labels/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/ui-components/labels/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/ui-components/lists/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/ui-components/lists/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/ui-components/tables/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/ui-components/tables/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/ui-components/typography/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/ui-components/typography/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/utilities.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/utilities.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/utilities/color/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/utilities/color/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/utilities/layout/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/utilities/layout/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/utilities/responsive-modifiers/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/utilities/responsive-modifiers/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/docs/utilities/typography/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/docs/utilities/typography/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/feed.xml" beforeDir="false" afterPath="$PROJECT_DIR$/_site/feed.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/_site/img/header-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/logos/aetuts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/logos/creative-market.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/logos/designmodo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/logos/envato.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/logos/microlancer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/logos/themeforest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/logos/wordpress.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/web development/2014/07/14/project-5/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/web development/2014/07/14/project-5/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/web development/2014/07/15/project-4/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/web development/2014/07/15/project-4/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/web development/2014/07/15/project-6/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/web development/2014/07/15/project-6/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/web development/2014/07/16/project-3/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/web development/2014/07/16/project-3/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/web development/2014/07/17/project-2/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/web development/2014/07/17/project-2/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/header-bg.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/img/header-bg.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/aetuts.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/creative-market.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/designmodo.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/envato.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/microlancer.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/themeforest.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logos/wordpress.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2RHxHDHXiarnmGQioc2jJpyqcGU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/OneDrive/Github/hicai-zju.github.io&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;vcs.Git&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2041cf3a-7148-4c9e-b87b-3c66a728af50" name="Changes" comment="" />
+      <created>1686920718692</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1686920718692</updated>
+    </task>
+    <task id="LOCAL-00001" summary="update config">
+      <created>1687320566395</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1687320566395</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update config" />
+    <option name="LAST_COMMIT_MESSAGE" value="update config" />
+  </component>
+</project>

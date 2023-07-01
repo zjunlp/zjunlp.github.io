@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title></title>
+    <description>A KG and NLP research group from Zhejiang University</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sat, 01 Jul 2023 19:42:39 +0800</pubDate>
+    <lastBuildDate>Sat, 01 Jul 2023 19:42:39 +0800</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>&lt;a href=&quot;https://Openkg.cn&quot; target=&quot;_blank&quot;&gt;OpenKG Initiative &lt;/a&gt;</title>
+        <description>
+</description>
+        <pubDate>Sun, 06 Jul 2014 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2014/07/06/project-1/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/06/project-1/</guid>
+        
+        <category>General</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>&lt;a href=&quot;https://github.com/zjunlp/KnowLM&quot; target=&quot;_blank&quot;&gt;KnowLM&lt;/a&gt;</title>
+        <description>
+</description>
+        <pubDate>Sat, 05 Jul 2014 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/2014/07/05/project-2/</link>
+        <guid isPermaLink="true">http://localhost:4000/2014/07/05/project-2/</guid>
+        
+        <category>General</category>
+        
+        
+      </item>
+    
+      <item>
+        <title>&lt;a href=&quot;https://deepkg.zjukg.cn&quot; target=&quot;_blank&quot;&gt;DeepKE&lt;/a&gt;</title>
+        <description>
+</description>
+        <pubDate>Fri, 04 Jul 2014 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/04/project-3/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/04/project-3/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>&lt;a href=&quot;http://kg.alibaba.com&quot; target=&quot;_blank&quot;&gt; OpenBG &lt;/a&gt;</title>
+        <description>
+</description>
+        <pubDate>Thu, 03 Jul 2014 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/03/project-5/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/03/project-5/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>StrutLLM</title>
+        <description>
+</description>
+        <pubDate>Wed, 02 Jul 2014 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/02/project-6/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/02/project-6/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+      <item>
+        <title>&lt;a href=&quot;http://neuralkg.zjukg.org&quot; target=&quot;_blank&quot;&gt;NeuralKG &lt;/a&gt;</title>
+        <description>
+</description>
+        <pubDate>Tue, 01 Jul 2014 00:00:00 +0800</pubDate>
+        <link>http://localhost:4000/web%20development/2014/07/01/project-4/</link>
+        <guid isPermaLink="true">http://localhost:4000/web%20development/2014/07/01/project-4/</guid>
+        
+        
+        <category>Web Development</category>
+        
+      </item>
+    
+  </channel>
+</rss>
