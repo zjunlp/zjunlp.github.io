@@ -9,17 +9,17 @@ description: "A KG and NLP research group from Zhejiang University"
 
 # Team names, titles and social links
 people-pi:
-- name: Dr. Ningyu Zhang
+- name: Prof. Ningyu Zhang
   pic: PI/1
   position: Associate Professor <br> College of Software, Zhejiang University
   url: https://person.zju.edu.cn/en/ningyu
 
-- name: Dr. Wen Zhang
+- name: Prof. Wen Zhang
   pic: PI/2
   position: Assistant Professor <br> College of Software, Zhejiang University
   url: https://person.zju.edu.cn/en/wenzhang
 
-- name: Dr. Guozhou Zheng
+- name: Prof. Guozhou Zheng
   pic: PI/3
   position: Associate Professor <br> College of Computer Science, Zhejiang University
   url: #
