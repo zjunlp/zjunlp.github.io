@@ -2,7 +2,7 @@ url: https://zjukg.github.io
 baseurl: 
 
 # Site settings
-title:     
+title:
 email: huajunsir@zju.edu.cn
 description: "A KG and NLP research group from Zhejiang University"
 
@@ -326,11 +326,11 @@ people-ra:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: Homepage
-    url: http://hicai.zjunlp.org
+    url: http://zjunlp.org
   - title: twitter
-    url:
+    url: http://twitter.com/chenhuajun
   - title: github
-    url: http://github.com/hicai-zju
+    url: http://github.com/zjunlp
 
 # Postal address (add as many lines as necessary)
 #address:
