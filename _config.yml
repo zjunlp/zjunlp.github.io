@@ -2,7 +2,7 @@ url: https://zjukg.github.io
 baseurl: 
 
 # Site settings
-title: ZJUKGNLP
+title: ZJUKG
 email: huajunsir@zju.edu.cn
 description: "A KG and NLP research group from Zhejiang University"
 
@@ -14,14 +14,24 @@ people-pi:
   position: Associate Professor <br> College of Software, Zhejiang University
   url: https://person.zju.edu.cn/en/ningyu
 
-- name: Prof. Wen Zhang
+- name: Prof. Qiang Zhang
   pic: PI/2
+  position: ZJU-Top100 Tantent Researcher
+  url: #
+
+- name: Prof. Wen Zhang
+  pic: PI/3
   position: Assistant Professor <br> College of Software, Zhejiang University
   url: https://person.zju.edu.cn/en/wenzhang
 
 - name: Prof. Guozhou Zheng
-  pic: PI/3
+  pic: PI/4
   position: Associate Professor <br> College of Computer Science, Zhejiang University
+  url: #
+
+- name: Dr. Keyan Ding
+  pic: PI/5
+  position: HIC-ZJU Tantent Researcher
   url: #
 
 people-student:
